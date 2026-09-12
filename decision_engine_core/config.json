@@ -1,0 +1,10 @@
+{
+    "service_name": "Decision Engine Core",
+    "version": "1.0.0",
+    "secret_key": "TEST_TOKEN_API_KEY_001",
+    "default_provider": "mock",
+    "api_key": "TEST_TOKEN_API_KEY_001",
+    "client_id": "TEST_CLIENT_SAMPLE_ID",
+    "customer_id": "CUST_TEST_1000",
+    "external_endpoint": "https://api.example.com/v1/decide"
+}
